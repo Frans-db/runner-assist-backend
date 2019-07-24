@@ -1,0 +1,60 @@
+{
+  "config": [
+    {
+      "key": "axtibacc",
+      "weights": {
+        "stddev": 0.5,
+        "avg": 0.3
+      }
+    },
+    {
+      "key": "tibimpact",
+      "weights": {
+        "stddev": 0.5,
+        "avg": 0.3
+      }
+    },
+    {
+      "key": "axsacacc",
+      "weights": {
+        "stddev": 2,
+        "avg": 1
+      }
+    },
+    {
+      "key": "sacimpact",
+      "weights": {
+        "stddev": 0.5,
+        "avg": 0.3
+      }
+    },
+    {
+      "key": "brakingforce",
+      "weights": {
+        "stddev": 0.5,
+        "avg": 0.3
+      }
+    },
+    {
+      "key": "pushoffpower",
+      "weights": {
+        "stddev": 0.5,
+        "avg": 0.3
+      }
+    },
+    {
+      "key": "tivintrot",
+      "weights": {
+        "stddev": 0.5,
+        "avg": 0.3
+      }
+    },
+    {
+      "key": "vll",
+      "weights": {
+        "stddev": 0.5,
+        "avg": 0.3
+      }
+    }
+  ]
+}

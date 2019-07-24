@@ -1,0 +1,1 @@
+mvn package && mv -f ./target/app.war /usr/share/tomcat8/webapps;
