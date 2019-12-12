@@ -10,11 +10,11 @@
 
 Some example images of the frontend:
 
-Login page
+## Login page
 ![Login page](/Pictures/login.png)
 
-Main page
+## Main page
 ![Main page](/Pictures/main.png)
 
-Statistics page
+## Statistics page
 ![Statistics page](/Pictures/stats.png)
